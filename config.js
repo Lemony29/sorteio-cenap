@@ -9,8 +9,6 @@ window.SORTEIO_CONFIG = {
   // Prêmios na ordem em que serão sorteados: quantidade e nome, um por linha.
   // Para não mostrar prêmio no telão, deixe vazio:  premios: ``,
   premios: `
-3 Garrafa térmica
-1 Tablet
 `,
 
   // Como entram os números que concorrem:
